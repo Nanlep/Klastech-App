@@ -1,0 +1,7 @@
+{
+  "name": "Klastech",
+  "description": "Klastech - The premier Web3 crypto wallet for the Nigerian market. Buy, Sell, and Swap crypto to Naira instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
