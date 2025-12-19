@@ -378,7 +378,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onEnterRetailApp, onSu
           </div>
         </div>
         <div className="max-w-7xl mx-auto border-t border-slate-900 mt-16 pt-8 flex flex-col md:flex-row justify-between gap-4">
-           <p className="text-slate-600 text-xs">© 2024 Klastech Financial Infrastructure Ltd. Registered RC-9922110. ISO 27001 Certified Architecture.</p>
+           <p className="text-slate-600 text-xs">© 2024 Klastech Digital Solutions Ltd. Registered RC-8963984. ISO 27001 Certified Architecture.</p>
            <div className="flex gap-6">
               <button onClick={() => openForm('Footer: Privacy')} className="text-xs text-slate-600 hover:text-slate-400 transition-colors">Privacy Policy</button>
               <button onClick={() => openForm('Footer: Terms')} className="text-xs text-slate-600 hover:text-slate-400 transition-colors">Terms of Service</button>
